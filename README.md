@@ -135,7 +135,7 @@ sudo nmcli connection up "Wired connection 1"
 ### Step 9: Take a snapshot
 Took a VM snapshot named **Clean Kali 10.0.0.2** so I can restore this working state at any time.
 
-![Snapshot]("D:\My Softwares\week 1 internship\kali_snapshot.png")
+![Snapshot](kali_snapshot.png)
 
 ---
 
