@@ -161,7 +161,7 @@ ping -c 3 google.com
 ls /media/sf_Downloads
 ```
 
-![Shared folder](screenshots/07-shared-folder.png)
+![Shared folder](windows_kali's connection.png)
 
 ---
 
