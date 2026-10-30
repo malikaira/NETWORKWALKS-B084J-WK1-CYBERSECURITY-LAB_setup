@@ -67,7 +67,7 @@ Downloaded the latest VirtualBox for Windows from virtualbox.org and installed i
 ### Step 2: Create the NAT Network
 Opened **File > Tools > Network > NAT Networks**. The default network used the prefix `10.0.2.0/24`, so I changed it to **10.0.0.0/24** and kept DHCP enabled.
 
-![NAT Network](D:\My Softwares\week 1 internship\virtual_network.png)
+![NAT Network](virtual_network.png)
 
 ### Step 3: Create the Kali VM
 Downloaded the Kali Linux installer ISO from kali.org and created a new VM:
