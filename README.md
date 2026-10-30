@@ -153,7 +153,7 @@ ping -c 3 8.8.8.8
 ping -c 3 google.com
 ```
 
-![Ping tests](kali_snapshot.png)
+![Ping tests](ping c.png)
 
 **Shared folder:** The Windows Downloads folder is visible inside Kali.
 
