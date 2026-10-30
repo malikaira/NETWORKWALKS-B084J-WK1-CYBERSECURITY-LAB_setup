@@ -121,7 +121,7 @@ In **Edit Connections > Wired connection 1 > IPv4 Settings**, I set the method t
 - Address: 10.0.0.2, Netmask: 24, Gateway: 10.0.0.1
 - DNS: 8.8.8.8
 
-![Wired Connections settings]("D:\My Softwares\week 1 internship\kali_wired_connection_working.png")
+![Wired Connections settings](kali_wired_connection_working.png)
 
 Then restarted the connection:
 
