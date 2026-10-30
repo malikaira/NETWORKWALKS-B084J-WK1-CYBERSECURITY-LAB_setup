@@ -81,7 +81,8 @@ Downloaded the Kali Linux installer ISO from kali.org and created a new VM:
 - **General > Advanced:** Shared Clipboard and Drag-and-Drop set to **Bidirectional**
 
 ![VM Network settings](kali_network.png)
-![Clipboard and drag-and-drop]("D:\My Softwares\week 1 internship\kali_drag&drop.png")
+![VM Network settings](kali_network.png)
+![Clipboard and drag-and-drop](kali_drag&drop.png)
 
 ### Step 5: Install Kali Linux
 Booted the VM from the ISO and ran the graphical installer:
