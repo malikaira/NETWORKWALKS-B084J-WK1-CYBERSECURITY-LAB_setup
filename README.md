@@ -141,7 +141,7 @@ Took a VM snapshot named **Clean Kali 10.0.0.2** so I can restore this working s
 
 **IP address (`ip a`):** `eth0` has 10.0.0.2/24 and is UP.
 
-![ip a]("D:\My Softwares\week 1 internship\ping a.png")
+![ip a](kali_IP_Verification.png)
 
 **Connectivity:** Gateway, public IP, and DNS name all respond with 0% packet loss.
 
