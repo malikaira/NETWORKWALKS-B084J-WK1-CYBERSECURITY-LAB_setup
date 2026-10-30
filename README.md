@@ -80,7 +80,7 @@ Downloaded the Kali Linux installer ISO from kali.org and created a new VM:
 - **Network:** Adapter 1 attached to **NAT Network** (`NatNetwork`), Promiscuous Mode set to **Allow All**
 - **General > Advanced:** Shared Clipboard and Drag-and-Drop set to **Bidirectional**
 
-![VM Network settings]("D:\My Softwares\week 1 internship\kali_NATnetwork.png")
+![VM Network settings](kali_network.png)
 ![Clipboard and drag-and-drop]("D:\My Softwares\week 1 internship\kali_drag&drop.png")
 
 ### Step 5: Install Kali Linux
