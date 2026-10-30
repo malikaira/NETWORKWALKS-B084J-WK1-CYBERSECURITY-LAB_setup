@@ -153,7 +153,7 @@ ping -c 3 8.8.8.8
 ping -c 3 google.com
 ```
 
-![ip a](kali_ping .png)
+![PING](kali_IP_Verification.png)
 
 **Shared folder:** The Windows Downloads folder is visible inside Kali.
 
