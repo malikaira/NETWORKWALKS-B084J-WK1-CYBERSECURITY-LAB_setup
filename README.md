@@ -120,8 +120,8 @@ sudo reboot
 In **Edit Connections > Wired connection 1 > IPv4 Settings**, I set the method to **Manual** with:
 - Address: 10.0.0.2, Netmask: 24, Gateway: 10.0.0.1
 - DNS: 8.8.8.8
-
-![Wired Connections settings](kali_wired_connection_working.png)
+  
+![Wired Connections settings](Manual_network.png)
 
 Then restarted the connection:
 
@@ -130,6 +130,7 @@ sudo nmcli connection modify "Wired connection 1" ipv4.dad-timeout 0
 sudo nmcli connection down "Wired connection 1"
 sudo nmcli connection up "Wired connection 1"
 ```
+![Wired Connections settings](kali_wired_connection_working.png)
 
 ### Step 9: Take a snapshot
 Took a VM snapshot named **Clean Kali 10.0.0.2** so I can restore this working state at any time.
