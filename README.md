@@ -106,7 +106,7 @@ After the reboot, screen auto-resize and clipboard sharing worked.
 
 ### Step 7: Configure the shared folder
 
-![Shared folder settings]("D:\My Softwares\week 1 internship\kali_working.png")
+![Shared folder settings](kali_shared_folders.png)
 
 Added the Windows **Downloads** folder under VM **Settings > Shared Folders** with **Auto-mount** enabled and read-only turned off. Then added my user to the `vboxsf` group and rebooted:
 
